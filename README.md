@@ -2,7 +2,8 @@
 
 **For this challenge, you need to implement a program that animates a list of scores over time.** This format has been trending in the last few years to display all sorts of scores such as [top chess players](https://www.youtube.com/watch?v=z2DHpW79w0Y), [top companies by market cap](https://x.com/jameseagle17/status/1761430998128968005) and many more.
 
-<img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-7-top-animation/assets/197597/e83bf3e3-6a41-461c-9cb8-909948699f83">
+<img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-7-scores-timeline/assets/197597/e61f6f1d-4d7b-4881-8303-c1b4ef63e952">
+
 
 ### Prizes:
 * Winner: $150
