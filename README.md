@@ -6,7 +6,7 @@
 
 ### Winner:
 
-* The winner of $150 is "ChartRace AEP" by @morenicogs. The challenge is all about generating a video, what best tool to do it than After Effects. Really cool that you can script it to achieve this! https://github.com/Algorithm-Arena/weekly-challenge-7-scores-timeline/issues/3
+* The winner of $150 is "ChartRace AEP" by @nicogs. The challenge is all about generating a video, what best tool to do it than After Effects. Really cool that you can script it to achieve this! https://github.com/Algorithm-Arena/weekly-challenge-7-scores-timeline/issues/3
 
 https://github.com/Algorithm-Arena/weekly-challenge-7-scores-timeline/assets/197597/3a40f2c8-b3f1-47bd-bb2e-887afc04abf8
 
